@@ -1,4 +1,4 @@
-language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.74  T=6.14 s (159.1 files/s, 28675.0 lines/s)"
+language,filename,blank,comment,code
 Markdown,./fixtures/attribute-behavior/AttributeTableSnapshot.md,541,0,12984
 JavaScript,./src/__mocks__/vendor/third_party/WebComponents.js,46,11,6322
 JavaScript,./scripts/bench/benchmarks/pe-class-components/benchmark.js,185,0,4384
